@@ -3,9 +3,9 @@ Autor: Rodrigo Baranda. La práctica se ha realizado de manera individual por pr
 
 Repositorio que contiene datos Macroeconómicos extraídos vía web scraping de la web: https://datosmacro.expansion.com/. Los datos scrapeados corresponden con datos de Tasa de Desempleo, Salario Mínimo y Salario Medio. Siendo los tres links los siguientes:
 
-https://datosmacro.expansion.com/paro
-https://datosmacro.expansion.com/smi
-https://datosmacro.expansion.com/mercado-laboral/salario-medio
+-https://datosmacro.expansion.com/paro  
+-https://datosmacro.expansion.com/smi  
+-https://datosmacro.expansion.com/mercado-laboral/salario-medio
 
 No todas las secciones de la página contienen los mismos países (por ejemplo, podemos tener datos de paro de España pero no datos relativos a SMI o Salario Medio). Por lo tanto, el objetivo inicial era preparar un Dataset que contuviera toda ésta información; sin embargo, habrá países para los que podamos disponer de toda y otros para la que no. Se ha decidido exportar todos los datos recogidos por si fueran necesarios en momentos posteriores del análisis.
 
